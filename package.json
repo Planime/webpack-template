@@ -1,0 +1,27 @@
+{
+  "name": "webpack-template",
+  "version": "1.0.0",
+  "description": "webpack template",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "watch": "webpack --mode development --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Planime/webpack-template.git"
+  },
+  "author": "digtiar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Planime/webpack-template/issues"
+  },
+  "homepage": "https://github.com/Planime/webpack-template#readme",
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^4.0.1",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
