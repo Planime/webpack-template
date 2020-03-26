@@ -16,7 +16,11 @@
     <leaf>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../webpackTemplate/src/index.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -33,6 +37,7 @@
       <list>
         <option value="$PROJECT_DIR$/../webpackTemplate/script.js" />
         <option value="$PROJECT_DIR$/../webpackTemplate/src.js" />
+        <option value="$PROJECT_DIR$/../webpackTemplate/.gitignore" />
         <option value="$PROJECT_DIR$/../webpackTemplate/src/index.js" />
       </list>
     </option>
@@ -104,12 +109,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585200683138</updated>
-      <workItem from="1585200684360" duration="601000" />
+      <workItem from="1585200684360" duration="1071000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="601000" />
+    <option name="totallyTimeSpent" value="1071000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1345" y="27" width="1344" height="996" extended-state="0" />
@@ -147,8 +152,19 @@
     <entry file="file://$PROJECT_DIR$/../webpackTemplate/src.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/../webpackTemplate/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../webpackTemplate/src/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
