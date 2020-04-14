@@ -4,7 +4,7 @@ import json from '../assets/json'
 
 console.log("Hello world!")
 
-console.log(obj)
+console.log(obj);
 
-console.log(json)
-console.log('12312312312321')
+console.log(json);
+console.log('12312312312321');
