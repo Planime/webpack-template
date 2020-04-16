@@ -8,3 +8,11 @@ console.log(obj);
 
 console.log(json);
 console.log('12312312312321');
+
+class Class {
+
+
+    getC() {
+        console.log(1)
+    }
+}
